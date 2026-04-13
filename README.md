@@ -1,0 +1,2 @@
+# Multimodal-Deepfake-Detection-using-Audio-Visual-Fusion-EfficientNet-wav2vec-
+A multimodal deepfake detection system that combines visual and audio features using EfficientNet-B4 and wav2vec 2.0 with cross-modal attention. Designed for real-world robustness, especially under compression and multilingual conditions. The model improves detection accuracy by fusing facial and acoustic inconsistencies.
